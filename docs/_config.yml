@@ -1,12 +1,11 @@
 ### Site Settings ###
-title               : portfolYOU
+title               : Archit Maurya
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
-baseurl             : "/portfolYOU"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : YoussefRaafatNasry/portfolYOU
+                      I do gaming and watching animes,
+                      still in school and a teenager.
+baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          : mauryaarchit/maurya.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+remote_theme        : mauryaarchit/maurya.github.io
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
@@ -25,15 +24,15 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : John Doe
+  name              : Archit Maurya
   image             : https://i.imgur.com/uyDNQnn.jpg
   behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
+  email             : mauryaarchit@protonmail.com
   facebook          : your_username
-  github            : your_username
+  github            : mauryaarchit
 # gitlab            : your_username
-# instagram         : your_username
+  instagram         : emperor_archit
 # kaggle            : your_username
   linkedin          : your_username
   medium            : your_username
@@ -42,7 +41,7 @@ author:
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : your_username
+  twitter           : emperor_archit
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
